@@ -7,10 +7,11 @@ Forumium is a good forum script that offers many features. One of the amazing fe
 You can find the documentation in the MAIN/documentation Folder.
 
 ## Requirements
-
-Apache/Nginx
-MySQL Server
-PHP Version >=5.4
-Rewrite Module
-PHP Mcrypt Exension
-Composer (Optional)
+<ul>
+	<li>Apache/Nginx</li>
+	<li>MySQL Server</li>
+	<li>PHP Version >=5.4</li>
+	<li>Rewrite Module</li>
+	<li>PHP Mcrypt Exension</li>
+	<li>Composer (Optional)</li>
+</ul>
